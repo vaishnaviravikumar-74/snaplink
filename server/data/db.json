@@ -6,6 +6,27 @@
       "email": "23ad122@drngpit.ac.in",
       "password": "$2a$12$gU/MXqQFIQrU9PznTVmYheH6by8WWsE8SLceXHg6h9boMZNf1uY3K",
       "createdAt": "2026-06-13T04:31:18.672Z"
+    },
+    {
+      "id": "mqdeo5gu1rsqmddlwe5",
+      "name": "vaishnavi",
+      "email": "23ad124@drngpit.ac.in",
+      "password": "$2a$12$lOrZe7LAy9AdZukdgm7WH.NfO4SYpmhjxR0U3ep6nhiGhIKt7w1W2",
+      "createdAt": "2026-06-14T06:30:52.590Z"
+    },
+    {
+      "id": "mqdes1527ue8m1gtotn",
+      "name": "vaishnavi",
+      "email": "vaishnaviravikumar74@gmail.com",
+      "password": "$2a$12$lnAThIy/hED5P8H0p1TpT.1wTLyvmWu1FEMIWBSdpCLx2OrfqpWZC",
+      "createdAt": "2026-06-14T06:33:53.606Z"
+    },
+    {
+      "id": "mqdewnbb7w3n9i15ves",
+      "name": "sonu",
+      "email": "23ad107@drngpit.ac.in",
+      "password": "$2a$12$2uCEbhCToVckbJE7Bb203.bplZQi8nimxu8JFHsCgFOYrhJncTMBe",
+      "createdAt": "2026-06-14T06:37:28.967Z"
     }
   ],
   "urls": [
@@ -17,6 +38,24 @@
       "clickCount": 1,
       "lastVisited": "2026-06-13T04:32:19.580Z",
       "createdAt": "2026-06-13T04:31:55.814Z"
+    },
+    {
+      "id": "mqdesfny1m7qwnc6brl",
+      "shortCode": "3EATqs",
+      "originalUrl": "https://EgZjaHJvbWUqEwgBEC4YgwEYxwEYsQMY0QMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyEwgBEC4YgwEYxwEYsQMY0QMYgAQyBggCEEUYOTINCAMQABiDARixAxiABDIKCAQQABixAxiABDIQCAUQABiDARixAxiABBiKBTINCAYQABiDARixAxiABDINCAcQABiDARixAxiABDIQCAgQLhiDARixAxiABBiKBTIHCAkQABiPAtIBCTMxMDVqMGoxNagCCLACAfEFoQG5b4Wd3xk",
+      "userId": "mqdes1527ue8m1gtotn",
+      "clickCount": 1,
+      "lastVisited": "2026-06-14T06:34:31.860Z",
+      "createdAt": "2026-06-14T06:34:12.430Z"
+    },
+    {
+      "id": "mqdewv5pdz4l2uvjyzs",
+      "shortCode": "rF4NT7",
+      "originalUrl": "https://www.google.com/search?gs_ssp=eJzj4tDP1TfITc9OV2A0YHRg8GJLzE2sys8DAELoBhw&q=amazon&rlz=1C1RXQR_enIN1087IN1087&oq=am&gs_lcrp=EgZjaHJvbWUqEwgBEC4YgwEYxwEYsQMY0QMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyEwgBEC4YgwEYxwEYsQMY0QMYgAQyBggCEEUYOTINCAMQABiDARixAxiABDIKCAQQABixAxiABDIQCAUQABiDARixAxiABBiKBTINCAYQABiDARixAxiABDINCAcQABiDARixAxiABDIQCAgQLhiDARixAxiABBiKBTIHCAkQABiPAtIBCTMxMDVqMGoxNagCCLACAfEFoQG5b4Wd3xk&sourceid=chrome&ie=UTF-8",
+      "userId": "mqdewnbb7w3n9i15ves",
+      "clickCount": 1,
+      "lastVisited": "2026-06-14T06:37:51.436Z",
+      "createdAt": "2026-06-14T06:37:39.133Z"
     }
   ],
   "clicks": [
@@ -24,6 +63,22 @@
       "id": "mqbuzucp917x8nklnfj",
       "urlId": "mqbuzc127cx1s2xtiqs",
       "timestamp": "2026-06-13T04:32:19.561Z",
+      "ip": "::1",
+      "device": "desktop",
+      "browser": "Chrome"
+    },
+    {
+      "id": "mqdesunmogb9oqfyuma",
+      "urlId": "mqdesfny1m7qwnc6brl",
+      "timestamp": "2026-06-14T06:34:31.858Z",
+      "ip": "::1",
+      "device": "desktop",
+      "browser": "Chrome"
+    },
+    {
+      "id": "mqdex4ndl141ciigajo",
+      "urlId": "mqdewv5pdz4l2uvjyzs",
+      "timestamp": "2026-06-14T06:37:51.433Z",
       "ip": "::1",
       "device": "desktop",
       "browser": "Chrome"
