@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "mqbuyjdcdl0gojyijer",
+      "name": "VAISHNAVI",
+      "email": "23ad122@drngpit.ac.in",
+      "password": "$2a$12$gU/MXqQFIQrU9PznTVmYheH6by8WWsE8SLceXHg6h9boMZNf1uY3K",
+      "createdAt": "2026-06-13T04:31:18.672Z"
+    }
+  ],
+  "urls": [
+    {
+      "id": "mqbuzc127cx1s2xtiqs",
+      "shortCode": "c4osRG",
+      "originalUrl": "https://www.google.com/search?gs_ssp=eJzj4tDP1TfITc9OV2A0YHRg8GJLzE2sys8DAELoBhw&q=amazon&rlz=1C1RXQR_enIN1087IN1087&oq=A&gs_lcrp=EgZjaHJvbWUqEwgBEC4YgwEYxwEYsQMY0QMYgAQyBggAEEUYOTITCAEQLhiDARjHARixAxjRAxiABDINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDIKCAUQABixAxiABDINCAYQABiDARixAxiABDIKCAcQABixAxiABDINCAgQLhjHARjRAxiABDIHCAkQABiPAtIBCTUzNDVqMGoxNagCCLACAfEFcHaIdOug_so&sourceid=chrome&ie=UTF-8",
+      "userId": "mqbuyjdcdl0gojyijer",
+      "clickCount": 1,
+      "lastVisited": "2026-06-13T04:32:19.580Z",
+      "createdAt": "2026-06-13T04:31:55.814Z"
+    }
+  ],
+  "clicks": [
+    {
+      "id": "mqbuzucp917x8nklnfj",
+      "urlId": "mqbuzc127cx1s2xtiqs",
+      "timestamp": "2026-06-13T04:32:19.561Z",
+      "ip": "::1",
+      "device": "desktop",
+      "browser": "Chrome"
+    }
+  ]
+}
