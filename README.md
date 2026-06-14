@@ -47,6 +47,6 @@ User -> React Frontend -> Express API -> JSON Database
 Short Link Click -> Express Redirect -> Click Recorded -> Original URL
 
 ## Video Demo
-[Loom Video Link - Coming Soon]
+https://www.loom.com/share/b4abcf3d98044cc695fb36982ca1911e
 
 This project is a part of a hackathon run by https://katomaran.com
